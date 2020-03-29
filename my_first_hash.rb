@@ -1,5 +1,5 @@
-def my_hash(your_hash)
-  your_hash = {"coding"=>"fun", "programing"=>"money", "money"=> "Traveling the world"}
+def my_hash
+  my_hash = {"coding"=>"fun", "programing"=>"money", "money"=> "Traveling the world"}
 
 end
 
