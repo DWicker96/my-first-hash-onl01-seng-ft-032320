@@ -18,15 +18,16 @@ def retrieval
 
 end
 
+def adding
   shipping_manifest = {
                   "whale bone corsets" => 5,
                   "porcelain vases" => 2,
                   "oil paintings" => 3
                  }
-  shipping_manifest["muskets"]=>2
-  shipping_manisfest["gun powder"]=>4
+                 shipping_manifest["muskets"]=>2
+                 shipping_manisfest["gun powder"]=>4
 
-  puts shipping_manifest
+                 shipping_manifest
   # add 2 muskets to the shipping_manifest hash below
 
 
