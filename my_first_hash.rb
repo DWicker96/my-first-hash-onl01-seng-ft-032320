@@ -4,7 +4,7 @@ end
 
 
 def shipping_manifest
-  the_manifest = { "porcelain vase"=> 2, "oil paintings" => 3}
+  the_manifest = { "porcelain vase"=> 2, "oil paintings" => 3, "whale bone corsets"}
   the_manifest["whale bone corsets"] = 5
 puts shipping_manifest
 end
