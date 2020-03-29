@@ -1,7 +1,6 @@
-def my_hash
+def my_hash(your_hash)
   your_hash = ["coding"=>"fun", "programing"=>"money", "money"=> "Traveling the world"]
-end
-my_hash
+
 end
 
 
