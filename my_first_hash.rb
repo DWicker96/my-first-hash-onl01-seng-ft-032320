@@ -1,7 +1,6 @@
 def my_hash
   my_hash = {"coding"=>"fun", "programing"=>"money", "money"=> "Traveling the world"}
-
-end
+  end
 
 
 # def shipping_manifest
